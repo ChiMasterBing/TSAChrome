@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 
 	"name": "Color Blindness Chrome Extension",
-	"description": "[insert text here]",
+	"description": "Filter to help the color-impaired",
 	"version": "1.0",
 
 	"permissions": [
@@ -16,7 +16,7 @@
 	},
 
     "web_accessible_resources": [
-        "filter/filters.svg"
+	"filter/filters.svg"
     ],
 	
 	"content_scripts": [
