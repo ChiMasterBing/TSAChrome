@@ -7,7 +7,11 @@ There are many different types of color-blindness but they can be seperated into
 
 Credits and Resources:
 -https://alistapart.com/article/finessing-fecolormatrix/
+
 -https://github.com/imahungrypanda/Prism
+
 -https://github.com/fresh-eyes/fresh-eyes/blob/master/css/popup.css
+
 -https://ixora.io/projects/colorblindness/color-blindness-simulation-research/
+
 -https://dev.to/ndesmic/exploring-color-math-through-color-blindness-2m2h
