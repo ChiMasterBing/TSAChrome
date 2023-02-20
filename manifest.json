@@ -2,14 +2,15 @@
 	"manifest_version": 2,
 
 	"name": "Color Blindness Chrome Extension",
-	"description": "[insert text here]",
+	"description": "Filter to help the color-impaired",
 	"version": "1.0",
 
 	"permissions": [
 		"tabs",
-		"activeTab"
+		"activeTab",
+		"storage"
 	],
-	
+
 	"browser_action": {
 		"default_title": "Color Blindness Chrome Extension",
 		"default_popup": "popup/popup.html"
